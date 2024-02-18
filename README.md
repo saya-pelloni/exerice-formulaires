@@ -2,6 +2,8 @@
 
 Intégrez les 3 formulaires depuis figma.
 
+Pour tester les formulaires, vous pouvez utiliser la documentation ["JavaScript - Récupérer les données d'un formulaire"](https://www.notion.so/eikon-imd/JavaScript-R-cuper-les-donn-es-d-un-formulaire-ec814bec06ed41758d73ce07406ab8cd?pvs=4)
+
 Pour la maquette _Formulaire 3_, vous aurez besoin du tutoriel ["Quelques astuces pour les éléments de formulaire"](https://www.notion.so/eikon-imd/Quelques-astuces-pour-les-l-ments-de-formulaire-3465870859ac46cc96f0ab9b1a68f738?pvs=4).
 
 ### Trouver les maquettes

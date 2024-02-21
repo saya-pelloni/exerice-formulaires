@@ -39,6 +39,10 @@ video {
   vertical-align: middle;
 }
 
+.language {
+  color: #dc2e55;
+}
+
 /* ====================================
 // base rules
 // ==================================== */

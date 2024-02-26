@@ -26,6 +26,8 @@ body {
 
   font-size: 1rem;
   line-height: 1.25;
+  padding: 39px;
+  background-color: #15172b;
 }
 
 a {
@@ -41,6 +43,21 @@ video {
 
 .language {
   color: #dc2e55;
+  padding-top: 30px;
+}
+
+.condition {
+  color: #dc2e55;
+  padding-top: 30px;
+}
+
+.more {
+  color: #dc2e55;
+  padding-top: 30px;
+}
+
+.country {
+  padding-top: 30px;
 }
 
 /* ====================================
